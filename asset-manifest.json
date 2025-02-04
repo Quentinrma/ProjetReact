@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ProjetReact/static/css/main.83784fa6.css",
+    "main.js": "/ProjetReact/static/js/main.3ed4631f.js",
+    "static/media/logo QR.png": "/ProjetReact/static/media/logo QR.b915bf9f3b0bb6533f17.png",
+    "static/media/image.png": "/ProjetReact/static/media/image.1471b4383e7c254f9534.png",
+    "static/media/React.png": "/ProjetReact/static/media/React.6c036a8a53ff84d3ec60.png",
+    "static/media/fond.jpg": "/ProjetReact/static/media/fond.277712770fed6eb098b1.jpg",
+    "static/media/lune.svg": "/ProjetReact/static/media/lune.1fac42f30f57be6b9bc6462dff27e2be.svg",
+    "index.html": "/ProjetReact/index.html",
+    "main.83784fa6.css.map": "/ProjetReact/static/css/main.83784fa6.css.map",
+    "main.3ed4631f.js.map": "/ProjetReact/static/js/main.3ed4631f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83784fa6.css",
+    "static/js/main.3ed4631f.js"
+  ]
+}
