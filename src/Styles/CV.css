@@ -1,0 +1,59 @@
+/* TwoColumnLayout.css */
+.CV {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidebar {
+  width: 20%;
+  position: sticky;
+  top: 0;
+  /* background-color: #f0f0f0; */
+  padding: 10px;
+  height: 100%; /* Assure que la colonne de gauche prend toute la hauteur de la page */
+  /* overflow-y: auto; Ajoute une barre de défilement si le contenu dépasse la hauteur de la page */
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding-left: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.sidebar li {
+  margin: 10px 0;
+}
+
+.sidebar a {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+}
+
+.sidebar a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  width: 70%;
+  padding: 10px;
+}
+
+.content h2 {
+  padding-top: 20px;
+  text-align: left;
+  font-size: 28px;
+}
+.content li {
+  padding: 5px 0;
+}
+.content h2 {
+  border-top: 1px solid;
+  width: 50%;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

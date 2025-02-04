@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d815bfb4.css",
+    "main.js": "/static/js/main.e0a30e9a.js",
+    "static/media/logo QR.png": "/static/media/logo QR.b915bf9f3b0bb6533f17.png",
+    "static/media/image.png": "/static/media/image.1471b4383e7c254f9534.png",
+    "static/media/React.png": "/static/media/React.6c036a8a53ff84d3ec60.png",
+    "static/media/fond.jpg": "/static/media/fond.277712770fed6eb098b1.jpg",
+    "static/media/lune.svg": "/static/media/lune.1fac42f30f57be6b9bc6462dff27e2be.svg",
+    "index.html": "/index.html",
+    "main.d815bfb4.css.map": "/static/css/main.d815bfb4.css.map",
+    "main.e0a30e9a.js.map": "/static/js/main.e0a30e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d815bfb4.css",
+    "static/js/main.e0a30e9a.js"
+  ]
+}

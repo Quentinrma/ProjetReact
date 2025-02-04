@@ -1,0 +1,25 @@
+.Grid {
+  display: grid;
+  margin: 30px 60px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 300px;
+  grid-gap: 20px;
+}
+
+.Grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.5);
+  transition: all 0.5s;
+  overflow: hidden;
+  max-height: 300px;
+  margin: auto;
+}
+
+.Grid img:hover {
+  filter: brightness(1);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

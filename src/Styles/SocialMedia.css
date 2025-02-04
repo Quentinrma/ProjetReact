@@ -1,0 +1,22 @@
+.SocialMedia {
+  height: 40px;
+  display: flex;
+  padding: 0;
+  flex-direction: row;
+  justify-content: center;gap: 20px;
+}
+.Socialmedia a {
+  color: black;
+}
+.SocialMedia li {
+  list-style-type: none;
+  height: 100%;
+}
+.SocialMedia li img {
+  transition: ease-in-out 0.2;
+  height: 100%;
+  object-fit: contain;
+}
+body.dark .SocialMedia li img {
+  filter: invert(100);
+}

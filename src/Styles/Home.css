@@ -1,0 +1,17 @@
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.rotate {
+  animation: rotate 9s linear infinite;
+}
+#Intro {
+  width: 50%;
+  padding: 20px;
+  margin: auto;
+  text-align: justify;
+}
